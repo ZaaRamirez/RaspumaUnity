@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "705371808620",
+    "firebase_url": "https://p3test-5059d-default-rtdb.firebaseio.com",
+    "project_id": "p3test-5059d",
+    "storage_bucket": "p3test-5059d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705371808620:android:4bdd183a6f5850d7d50949",
+        "android_client_info": {
+          "package_name": "com.Zaa.Vuforia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8dtJwuX5nV8vVrMq-xrFDoGC78VbQVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
